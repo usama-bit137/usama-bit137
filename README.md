@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @usama-bit137
-- 👀 I’m interested in Theoretical Physics and Full Stack Development.
+- 👀 I’m interested in Theoretical Physics and RESTful APIs.
 - 🌱 I’m currently learning JavaScript, HTML, CSS, React and node.js
 - 💞️ I’m looking to collaborate on an interactive repository for students of Physics to develop numerical methods skills.
 - 📫 How to reach me usamaaqeel98@gmail.com
