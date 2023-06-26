@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usama</h1>
-<h3 align="center">A Frontend Developer, Theoretical Physicist and Guitarist</h3>
+<h3 align="center">A Full Stack Developer, Theoretical Physicist and Guitarist</h3>
 
 - 🔭 I’m currently working on [applying a RESTful API in a blog](https://github.com/usama-bit137/blog-restful-api)
 
