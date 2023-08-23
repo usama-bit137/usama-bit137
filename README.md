@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Usama</h1>
 <h3 align="center">A Full Stack Developer, Theoretical Physicist and Guitarist</h3>
 
-- 🔭 I’m currently working on applying a RESTful API in a [blog](https://github.com/usama-bit137/blog-restful-api), a [guitar wiki](https://github.com/usama-bit137/guitar-depot-api) and a [numerical methods resource](https://github.com/usama-bit137/NUMERUS) for physicists and engineers.
+- 🔭 I’m currently working on applying a RESTful API in a [blog](https://github.com/usama-bit137/blog-restful-api), a [todo list app](https://github.com/usama-bit137/todo-list) and a [numerical methods resource](https://github.com/usama-bit137/NUMERUS) for physicists and engineers.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
